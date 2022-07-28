@@ -1,0 +1,1 @@
+eval('window.alert("Hello,world!");');
